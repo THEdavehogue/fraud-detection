@@ -1,4 +1,4 @@
 *.pyc
 .ipynb_checkpoints/
-.zip
+*.zip
 .DS_Store
