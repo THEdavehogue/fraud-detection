@@ -8,7 +8,7 @@ After analyzing more than 10,000 events, the team has created a machine-learning
 
 This repository contains the following files:
 
-- Fraud_Detection_Case_Study.pdf: Slideshow with summary of methodology and findings
+- presentation.pdf: Slideshow with summary of methodology and findings
 - model.py: Python script that imports event data, builds the model for fraud detection, and stores model for later use
 - predict.py: Python script that reads in a single event and uses the pre-stored model to predict probability that the event is fraud
 - scrub_data.py: Python script called by both model.py and predict.py to clean input data and engineer features to before passing data to the model builder (model.py) or predictor (predict.py)
